@@ -1,3 +1,0 @@
-codigoInterno
-codigoGestora
-codigoAgente
